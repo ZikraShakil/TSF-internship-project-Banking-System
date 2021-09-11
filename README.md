@@ -14,4 +14,6 @@ The website has the following specification - Start with a dummy data for upto 1
 Transaction status: Transfer table/ Transfer details which records all the transactions 
 
 website Flow : Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
-website link: https://tsf-task-1.000webhostapp.com/banking%20management%20system/index.php
+
+website link:
+https://tsf-task-1.000webhostapp.com/banking%20management%20system/index.php
