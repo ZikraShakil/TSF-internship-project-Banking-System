@@ -2,6 +2,7 @@
 Sparks Foundation Web Development Internship
 
 Stack used-Front end: HTML, CSS, Bootstrap & Javascript
+
 Back-end : PHP Database : MySQL
 
 Database contains two Tables- Users Table & Transaction Table
